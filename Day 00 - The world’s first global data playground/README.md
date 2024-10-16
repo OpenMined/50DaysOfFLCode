@@ -1,6 +1,5 @@
 <h1><img src="./../assets/OpenMined-Icon.png" height="100">Day 00 - The world’s first global data playground</h1>
-<a name="top"></a>
-> **TL;DR:** Machine learning has developed at a frantic pace, where ideals such as data privacy and the centralisation of compute have remained an afterthought. We introduce SyftBox, the world’s first global data playground that is built from these missing ideals from first principles. We call this _the broad listening Internet_. Stick around to find out how to get involved!
+> TL;DR: Machine learning has developed at a frantic pace, where ideals such as data privacy and the centralisation of compute have remained an afterthought. We introduce SyftBox, the world’s first global data playground that is built from these missing ideals from first principles. We call this _the broad listening Internet_. Stick around to find out how to get involved!
 
 
 ## What is the Broad-Listening Internet? 
@@ -94,20 +93,3 @@ You've successfully installed and run SyftBox. You're now ready to explore the b
     scroll-behavior: smooth;
   }
 }
-
-/* Style the button */
-.top-link {
-  transition:       all .25s ease-in-out;
-  position:         fixed;
-  bottom:           0;
-  right:            0;
-  display:          inline-flex;
-  color:            #000000;
-
-  cursor:           pointer;
-  align-items:      center;
-  justify-content:  center;
-  margin:           0 2em 2em 0;
-  border-radius:    50%;
-</style>
-<a class="top-link hide" href="#top">↑</a>
