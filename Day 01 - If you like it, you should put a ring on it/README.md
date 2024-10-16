@@ -171,8 +171,7 @@ The first function of the app is to detect whether it has received any data, as 
         "joe@acme.com",
         "susan@gmail.com",
         "bob@gmail.com",
-        "joe@acme.com
-    ],
+        "joe@acme.com"],
     "data": 5,
     "current_index": 0
 }
