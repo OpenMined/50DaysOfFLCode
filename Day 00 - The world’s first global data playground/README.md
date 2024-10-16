@@ -63,7 +63,7 @@ SyftBox is the browser to the `broad listening internet`, but it's less like a b
 
 Below you can see the network of people connected to the broad listening internet. By the end of this page, you'll see your name here too!
 
-[<img src="./../assets/OpenMined-Logo-Light.png" alt="Get it on SERVICE" height="32" />](https://syftbox.openmined.org/datasites/andrew@openmined.org/stats.html){:target="_blank"}
+[<img src="./../assets/OpenMined-Logo-Light.png" alt="Get it on SERVICE" height="32" />](https://syftbox.openmined.org/datasites/andrew@openmined.org/stats.html)
 
 ## Installing SyftBox Guide
 ### Step 1: Install and Run
@@ -81,7 +81,7 @@ This command will startup the SyftBox client, connecting you to the broad listen
 
 Once you've answered the questions and the SyftBox client has started, look for your email on the network.
 
-[<img src="./../assets/OpenMined-Logo-Light.png" alt="Get it on SERVICE" height="32" />](https://syftbox.openmined.org/datasites/andrew@openmined.org/stats.html){:target="_blank"}
+[<img src="./../assets/OpenMined-Logo-Light.png" alt="Get it on SERVICE" height="32" />](https://syftbox.openmined.org/datasites/andrew@openmined.org/stats.html)
 
 ### Step 6: Pat yourself on the back!
 > Congratulations!
