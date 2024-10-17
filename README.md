@@ -1,4 +1,4 @@
-<h1><img src="./../assets/OpenMined-Icon.png" height="100">Day 01 - Your First Federated Learning Project</h1>
+<h1><img src="./assets/OpenMined-Icon.png" height="100">Day 01 - Your First Federated Learning Project</h1>
 
 # Welcome to Day 1 of 50 Days of FL Code!
 
