@@ -2,7 +2,7 @@
 
 _Author:_ <a href="https://x.com/itsmaddox_j" target="_blank">Andrej Jovanović</a>
 
-> TL;DR: Build your very first application with PySyft: aggregate private knowledge from the crowd!
+> TL;DR: Build your very first application with SyftBox: aggregate private knowledge from the crowd!
 
 Welcome to this tutorial, where we will _finally_ create the Ring app, hence the name :p (might have had a bit too much fun with that one)!. In _yesterday's_ tutorial, we introduced you to the concept of what the Ring app is through demonstration only. However, today, you will actually create the Ring app for yourself so that you can see the inner workings. What this exercise will also do is it will setup the general framework of applications going forward. What we mean by this is: the Ring app we will build today is _intentionally simplified_ in certain aspects. However, this let's us introduce concepts in addition to Ring (for example: federated learning with the Ring, Differential Privacy with the Ring) once we have a solid foundation.
 
@@ -130,7 +130,7 @@ def process_input(self, file_path) -> None:
 
 ### Step 2.4 The final helpers!
 
-Okay, I promise that we are almost there. All we need to do is to finish up the helper functions `load_json`, `my_secret(), `send_data` and `terminate_ring`. Let's go one by one.
+Okay, I promise that we are almost there. All we need to do is to finish up the helper functions `load_json`, `my_secret`, `send_data` and `terminate_ring`. Let's go one by one.
 
 #### `load_json`
 This does what it says on the tin: given a path to a `json` file, we load it's data!
@@ -193,13 +193,26 @@ def terminate_ring(self, data: RingData) -> None:
 ```
 </details>
 
+We also have a final helper function that is actually used to write a json file to a particular location:
+<details>
+<summary><b>Click here to see the completed function!</b></summary>
+
+```python
+def write_json(self, file_path: Path, result: RingData) -> None:
+    print(f"Writing to {file_path}.")
+    file_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(file_path, "w") as f:
+        f.write(result.model_dump_json())
+
+```
+</details>
+
 ## Step 3: Woohoo! We are done! Time to package it!
 
 Well done! You have successfully coded up the Ring App. In the below toggle, we will show you our implementation in full. There is also some extra stuff that we have added there. Essentially it is all extra configuration to make sure everything is running as it should with SyftBox.
 
 <details>
 <summary><b>👨‍💻 Click here to see the full code.</b></summary>
-### Investigating `main.py`
 
 ```python
 import os
