@@ -23,7 +23,7 @@ In this tutorial, we'll take a step further into the world of privacy-preserving
 
 ## Step 1: Introduction to Federated Learning
 
-For those of you who are not familiar with federated learning, we provide a brief introduction into the framework below. If you are interesting in learning more, please ![please visit this resource](https://github.com/deep-learning-indaba/indaba-pracs-2024/blob/main/practicals/Federated_Learning/Federated_Learning.ipynb) to see a whole tutorial dedicated to understanding the in's and out's.
+For those of you who are not familiar with federated learning, we provide a brief introduction into the framework below. If you are interesting in learning more, please [please visit this resource](https://github.com/deep-learning-indaba/indaba-pracs-2024/blob/main/practicals/Federated_Learning/Federated_Learning.ipynb) to see a whole tutorial dedicated to understanding the in's and out's.
 
 
 Generally speaking, federated learning is a decentralized approach to training machine learning models across multiple nodes. Instead of aggregating all of the training data on a single node, federated learning pushes computation to the edge wich that each device conducts local training on its own local data. Instead of the data, federated learning clients communicate information that is captured in the model itself which allows all federated clients to learn a global model collaboratively. The whole setup can be summarised in a three step process, as seen in the image below:
