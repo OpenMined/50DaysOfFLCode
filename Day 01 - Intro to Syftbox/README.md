@@ -1,17 +1,17 @@
-<h1><img src="./../assets/OpenMined-Icon.png" height="100">Day 01 - Hello Federated World</h1>
-> 
+<h1><img src="./../assets/OpenMined-Icon.png" height="100">Day 01 - Intro to Syftbox </h1>
+_Author_: Subha Ramkumar
 
-# Part 1: Introduction
+# What is Syftbox?
 
-Success Criteria:
-- remind people why 50DaysofFL is good
-- problem: pets are hard to build/research
-- solution: syftbox makes it easier to deploy federated learning applications (have a favourite FL platform/algorithm? request a tutorail and we'll make one for you)
+Before we dive into building cool programs and apps throughout this 50-day federated learning journey, let’s first get familiar with the platform we’ll be using—Syftbox. Syftbox is a platform designed to build apps and projects that serve groups of individuals by securely accessing and aggregating verified private data. The three most important things Syftbox does are accessing private information securely, aggregating it, and verifying it. Currently under development, Syftbox will be the primary platform for our 50 Days of FL program, providing the foundation for all the awesome projects you’ll build.
 
-# Part 2: Install & Connect to Federated Network
+# Install Syftbox
 
-- 1 linear for installation
-- Link to troubleshooting / Github Issues / #support on slack
+Here is the one-line installer for Syftbox on macOS.
+Running this script will both install Syftbox and start your Syftbox client.
+```
+curl -LsSf https://syftboxstage.openmined.org/install.sh | sh
+```
 
 # Part 3: See Yourself on Network
 
