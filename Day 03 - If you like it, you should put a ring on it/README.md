@@ -20,6 +20,9 @@ def fib(n):
   print()
 fib(1000)
 ```
+
+For those of you that are interested in this format, we have recorded a [video explaining this tutorial series here](https://drive.google.com/file/d/11x1BTD4eIsQCxADhA2fLuIlqpl6blJId/view?usp=sharing):
+
 If this was successful, let's get ready to rock and roll!
 
 > As always, should you need support, please [file an issue here](https://github.com/OpenMined/50DaysOfFLCode), or join the OpenMined [slack channel](https://communityinviter.com/apps/openmined/openmined/) to post a question that the team can help answer!
