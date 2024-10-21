@@ -42,6 +42,7 @@ For example, if you check your public folder within your datasite, you’ll see 
 # video tutorial #1:
 **explore your datasite, create your first public home.html and explore other datasites on the syft network!**
 <br>
+https://www.loom.com/share/c4d1607c952f446989678553296c9e95?sid=57a070ec-679d-47ee-84d6-03f9732c1df4
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 <br>
@@ -49,11 +50,9 @@ For example, if you check your public folder within your datasite, you’ll see 
 
 
 
-
-
 # Congratulations!!
 
-- tomorrow you'll build your first federated app
+- tomorrow you'll build your first app on Syftbox!
 
 # Bonus: customize your page!
 
