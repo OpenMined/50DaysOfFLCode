@@ -26,11 +26,10 @@ You should also be able to see your datasite folder appear in this domain- https
 # What is a datasite?
 
 
-In Syftbox, a datasite refers to your own personal domain. This term is analogous to a website, but here, it’s called a datasite because all the data within belongs to you. You have complete control over which parts of your data are publicly accessible, which are privately accessible, and which pieces you grant selective access to others. Your datasite serves as your fundamental space within Syftbox, allowing you to create, add your data, and develop your own projects. You can also manage permissions to let others access your datasite as needed.
-
+In Syftbox, a datasite refers to your own personal domain. This term is analogous to a website, but here, it’s called a datasite because all the data within belongs to you. You have complete control over which parts of your data are publicly accessible, which are privately accessible, and over which pieces you grant selective access to others. Your datasite serves as your fundamental space within Syftbox, allowing you to create, add your data, and develop your own projects. 
 <br>
 
-# What are my private and public spaces in my datasite? 
+# What are the private and public spaces in my datasite? 
 
 When you open your datasite folder, you’ll notice a default file called the _.syftperm file. This file functions like any other file permission system, allowing you to decide who can read and write to it. As the admin of your own datasite, you have complete control over who can access different parts of your space.
 
