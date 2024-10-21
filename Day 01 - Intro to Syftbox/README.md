@@ -52,6 +52,6 @@ https://www.loom.com/share/c4d1607c952f446989678553296c9e95?sid=57a070ec-679d-47
 
 # Congratulations!!
 
-- Tomorrow you'll build your first app on Syftbox!
+Tomorrow you'll build your first app on Syftbox!
 
 
