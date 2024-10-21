@@ -54,13 +54,4 @@ https://www.loom.com/share/c4d1607c952f446989678553296c9e95?sid=57a070ec-679d-47
 
 - tomorrow you'll build your first app on Syftbox!
 
-# Bonus: customize your page!
 
-You've successfully installed and run SyftBox. You're now ready to explore the broad listening internet. Follow along here to `Day 01` of the `50-DAYS-OF-FL-CODE`.
-<style>
-/* Enable smooth scrolling */
-@media screen and (prefers-reduced-motion: no-preference) {
-  html {
-    scroll-behavior: smooth;
-  }
-}
