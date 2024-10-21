@@ -6,6 +6,7 @@ Author: Subha Ramkumar
 Before we dive into building cool programs and apps throughout this 50-day federated learning journey, let’s first get familiar with the platform we’ll be using—Syftbox. Syftbox is a platform designed to build apps and projects that serve groups of individuals by securely accessing and aggregating verified private data. The three most important things Syftbox does are accessing private information securely, aggregating it, and verifying it. Currently under development, Syftbox will be the primary platform for our 50 Days of FL program, providing the foundation for all the awesome projects you’ll build.
 
 
+<br>
 
 # Install Syftbox
 
@@ -20,31 +21,35 @@ You should also be able to see your datasite folder appear in this domain- https
 
 <img src="./assets/sbfolder.png" style="width: 60%;">
 
-
+<br>
 
 # What is a datasite?
 
 
 In Syftbox, a datasite refers to your own personal domain. This term is analogous to a website, but here, it’s called a datasite because all the data within belongs to you. You have complete control over which parts of your data are publicly accessible, which are privately accessible, and which pieces you grant selective access to others. Your datasite serves as your fundamental space within Syftbox, allowing you to create, add your data, and develop your own projects. You can also manage permissions to let others access your datasite as needed.
 
+<br>
 
-## what are my private and public spaces in my datasite? 
+# What are my private and public spaces in my datasite? 
 
 When you open your datasite folder, you’ll notice a default file called the _.syftperm file. This file functions like any other file permission system, allowing you to decide who can read and write to it. As the admin of your own datasite, you have complete control over who can access different parts of your space.
 
 For example, if you check your public folder within your datasite, you’ll see that the syftperm file indicates the read permissions are set to global. This means that the contents of the public folder are viewable by all other users within the Syftbox network. As admin of your datasite you decide the access permissions associated with every folder in your datasite, thus helping you effectively manage access to your data while maintaining your privacy.
 
 
+<br>
+
+# video tutorial #1:
+**explore your datasite, create your first public home.html and explore other datasites on the syft network!**
+<br>
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+<br>
 
 
-# Part 4: Say Hello to Everyone!
 
-- create an html page and see it on the network
 
-# Part 5: Explore other datasites! (and maybe look for data)
 
-- (link to aziz's datasite browser)
-- (link to some other interesting/popular/interactive pages)
 
 # Congratulations!!
 
