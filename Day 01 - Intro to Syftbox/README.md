@@ -18,7 +18,7 @@ Enter your email ID to create your account in Syftbox, aka your datasite!
 You should see a folder open up like in the screenshot below, listing a few datasite folders.
 You should also be able to see your datasite folder appear in this domain- https://syftbox.openmined.org/datasites
 
-<img src="./assets/sbfolder.png" style="width: 70%;">
+<img src="./assets/sbfolder.png" style="width: 60%;">
 
 
 
@@ -26,6 +26,14 @@ You should also be able to see your datasite folder appear in this domain- https
 
 
 In Syftbox, a datasite refers to your own personal domain. This term is analogous to a website, but here, it’s called a datasite because all the data within belongs to you. You have complete control over which parts of your data are publicly accessible, which are privately accessible, and which pieces you grant selective access to others. Your datasite serves as your fundamental space within Syftbox, allowing you to create, add your data, and develop your own projects. You can also manage permissions to let others access your datasite as needed.
+
+
+## what are my private and public spaces in my datasite? 
+
+When you open your datasite folder, you’ll notice a default file called the _.syftperm file. This file functions like any other file permission system, allowing you to decide who can read and write to it. As the admin of your own datasite, you have complete control over who can access different parts of your space.
+
+For example, if you check your public folder within your datasite, you’ll see that the syftperm file indicates the read permissions are set to global. This means that the contents of the public folder are viewable by all other users within the Syftbox network. As admin of your datasite you decide the access permissions associated with every folder in your datasite, thus helping you effectively manage access to your data while maintaining your privacy.
+
 
 
 
