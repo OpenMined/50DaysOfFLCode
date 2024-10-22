@@ -1,6 +1,6 @@
 # Day 05 - Learning Ring: Running Federated Learning in a Distributed Ring.
 
-_Author_: Ionesio Junior, <a href="https://x.com/itsmaddox_j" target="_blank">Andrej Jovanović</a>
+_Author_: Ionesio Junior, Andrej Jovanović (<a href="https://x.com/itsmaddox_j" target="_blank">X: @itsmaddox_j</a>)
 
 ```
 Learn how to transform your ring application to support federated learning, allowing distributed nodes to collaboratively train machine learning models without sharing raw data.
